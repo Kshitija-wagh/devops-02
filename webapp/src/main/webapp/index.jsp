@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thank You So Much LTI-Mindtree for this Platform </h1>
-   <h1> See You Again okkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk </h1>
+   <h1> See You Again okk!! </h1>
   
 </form>
