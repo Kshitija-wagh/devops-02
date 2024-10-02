@@ -1,4 +1,4 @@
-
+{
     "taskDefinitionArn": "arn:aws:ecs:ap-south-1:585768188333:task-definition/task2:1",
     "containerDefinitions": [
         {
@@ -21,7 +21,7 @@
             "volumesFrom": [],
             "ulimits": [],
             "logConfiguration": {
-                "logDriver": "awslogs"
+                "logDriver": "awslogs",
                 "options": {
                     "awslogs-group": "/ecs/task2",
                     "mode": "non-blocking",
