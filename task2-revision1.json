@@ -21,7 +21,7 @@
             "volumesFrom": [],
             "ulimits": [],
             "logConfiguration": {
-                "logDriver": "awslogs",
+                "logDriver": "awslogs"
                 "options": {
                     "awslogs-group": "/ecs/task2",
                     "mode": "non-blocking",
